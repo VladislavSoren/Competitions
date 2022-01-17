@@ -1,0 +1,19 @@
+Goal: 
+To predict the operating condition of a waterpoint for each record in the dataset.
+
+Distribution of Labels:
+	functional 				- the waterpoint is operational and there are no repairs needed
+	functional needs repair - the waterpoint is operational, but needs repairs
+	non functional 			- the waterpoint is not operational
+
+Суть:
+Нужно решить задачу класиификации, т.е. по данным, которые
+характеризуют водоколонки в Танзании (исходный DataSet)
+предсказать её состояние:
+	functional, 				
+	functional needs repair, 
+	non functional. 			
+
+	
+Link to my profile on DrivenData:
+https://www.drivendata.org/users/VladSoren/
