@@ -1,0 +1,6 @@
+Preprocessing + Modelling
+
+В ноутбуке "3_Description_Modeling_Keras_NN" задача решалась с помощью
+полносвязных (Dense) сетей в Keras.
+Так же была написана функция подсчета Recall и проведено её сравнение
+ с данной метрикой в classification_report.
