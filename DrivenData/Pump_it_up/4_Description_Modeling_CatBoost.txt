@@ -1,0 +1,12 @@
+Preprocessing + Modelling
+
+В ноутбуке "4_Description_Modeling_CatBoost" задача решалась с помощью
+такого инструмента градиентного бустинга как CatBoost.
+
+Содержание:
+ - Feature Engeneering
+ - Preprocessing
+ - Modelling
+ - Submit
+ 
+ Итоговые точности можно увидеть в конце ноутбука
